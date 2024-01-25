@@ -1,6 +1,5 @@
 | Published on |                                              Announcement (Click to download)                                              |
 | :----------: | :------------------------------------------------------------------------------------------------------------------------: |
-|  2024-01-25  |                [V sem B. Tech Makeup Exam - Answer Script view](20240125_V_Semester_Answer_Script_View.pdf)                |
 |  2024-01-25  |  [Notification - B. Tech. / M. Tech. / MCA - Makeup exam Answer Script View](20240125_Notification-Makeup_Exam_Answe.pdf)  |
 |  2024-01-25  |              [VII sem  B.Tech Makeup exam - Answer Script view](20240125_VII_sem_B.Tech_Makeup_exam-_An.pdf)               |
 |  2024-01-25  |              [Third sem  B.Tech Makeup exam- Answer Script view](20240125_Third_sem_B.Tech_Makeup_exam-.pdf)               |
@@ -10,3 +9,4 @@
 |  2024-01-25  |    [I year Remedial section allotment for students applied through New Form](20240125_Studentwise_List1_21-01-2024.pdf)    |
 |  2024-01-25  |                   [I Year Remedial Sections Time Table - Physics](20240125_Remedial_Timetable-8-14.pdf)                    |
 |  2024-01-25  |                   [I Year Remedial Sections Time Table - Chemistry](20240125_Remedial_Timetable-1-7.pdf)                   |
+|  2024-01-25  |                [V sem B. Tech Makeup Exam - Answer Script view](20240125_V_Semester_Answer_Script_View.pdf)                |
