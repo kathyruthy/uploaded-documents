@@ -1,4 +1,4 @@
-| Published on |                                              Announcement (Click to download)                                              |
+| Published on |                                                Document (Click to download)                                                |
 | :----------: | :------------------------------------------------------------------------------------------------------------------------: |
 |  2024-01-25  |                [V sem B. Tech Makeup Exam - Answer Script view](20240125_V_Semester_Answer_Script_View.pdf)                |
 |  2024-01-25  |  [Notification - B. Tech. / M. Tech. / MCA - Makeup exam Answer Script View](20240125_Notification-Makeup_Exam_Answe.pdf)  |
