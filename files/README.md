@@ -24,4 +24,4 @@
 |  2024-01-25  |                                                                         <a href="20240125_Remedial_Timetable-1-7.pdf" target="_blank">I Year Remedial Sections Time Table - Chemistry</a>                                                                         |                   <a href="20240125_Remedial_Timetable-1-7.pdf" download="20240125_Remedial_Timetable-1-7.pdf">⚡</a>                   |
 
 
-> Last updated: 1/2/2024, 12:27:10 pm
+> Last updated: 2/2/2024, 4:05:09 am
