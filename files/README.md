@@ -1,3 +1,6 @@
+> Last updated: 7/2/2024, 1:14:31 am
+
+
 | Published on |                                                                                                                     Document (Click to view)                                                                                                                      |                                                                Download                                                                |
 | :----------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------: |
 |  2024-02-04  |                                                                                   <a href="20240204_AttachmentChoose_France_Tour.pdf" target="_blank">‘Choose France tour’</a>                                                                                    |             <a href="20240204_AttachmentChoose_France_Tour.pdf" download="20240204_AttachmentChoose_France_Tour.pdf">⚡</a>             |
@@ -25,6 +28,3 @@
 |  2024-01-25  |                                                          <a href="20240125_Studentwise_List1_21-01-2024.pdf" target="_blank">I year Remedial section allotment for students applied through New Form</a>                                                          |             <a href="20240125_Studentwise_List1_21-01-2024.pdf" download="20240125_Studentwise_List1_21-01-2024.pdf">⚡</a>             |
 |  2024-01-25  |                                                                         <a href="20240125_Remedial_Timetable-8-14.pdf" target="_blank">I Year Remedial Sections Time Table - Physics</a>                                                                          |                  <a href="20240125_Remedial_Timetable-8-14.pdf" download="20240125_Remedial_Timetable-8-14.pdf">⚡</a>                  |
 |  2024-01-25  |                                                                         <a href="20240125_Remedial_Timetable-1-7.pdf" target="_blank">I Year Remedial Sections Time Table - Chemistry</a>                                                                         |                   <a href="20240125_Remedial_Timetable-1-7.pdf" download="20240125_Remedial_Timetable-1-7.pdf">⚡</a>                   |
-
-
-> Last updated: 7/2/2024, 12:05:13 am
